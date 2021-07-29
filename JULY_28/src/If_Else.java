@@ -23,9 +23,9 @@ public class If_Else {
 		
 		
 		if(j>k) 
-			System.out.println(j+" is greater");
+			System.out.println(j +" is greater");
 		else
-			System.out.println(k+" is greater");
+			System.out.println(k +" is greater");
 		
 		
 		
