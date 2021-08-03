@@ -30,7 +30,10 @@ public static void main(String[] args) {
 		//how to create object of class
 		// ClassName objectname = new ClassName();
 		
-	
+		Calculator cal= new Calculator();
+		cal.Add();
+		cal.sub();
+		
 		
 
 		
