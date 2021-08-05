@@ -6,4 +6,5 @@
     <fullyQualifiedTypeName name="javax.tools.FileObject"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="com.janbask.static_examples.Variables_Static_Examples"/>
 </qualifiedTypeNameHistroy>
