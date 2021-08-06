@@ -6,7 +6,7 @@ public class Round_Off {
 		// TODO Auto-generated method stub
 
 	
-double d= 10.56555;
+double d= 10.26555;
 		
 		//System.out.println(d);
 		System.out.println(Math.round(d));

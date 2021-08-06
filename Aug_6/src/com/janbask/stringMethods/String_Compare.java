@@ -21,13 +21,15 @@ public class String_Compare {
 		System.out.println("****************************");
 
 		
-System.out.println(s1.compareTo(s3));
 		
-		System.out.println(s1.equals(s3));
-		
-		System.out.println(s1==s3);
-		
-		System.out.println(s1.compareToIgnoreCase(s3));
+		  System.out.println(s1.compareTo(s3));
+		  
+		  System.out.println(s1.equals(s3));
+		  
+		  System.out.println(s1==s3);
+		  
+		  System.out.println(s1.compareToIgnoreCase(s3));
+		 
 		
 		
 		

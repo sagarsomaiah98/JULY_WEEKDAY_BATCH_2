@@ -7,8 +7,8 @@ public class String_Ends_With {
 		
 		String s1= "Welcome to selenium training";
 		String s2=" Selenium is UI tool";
-		System.out.println(s1.endsWith("ng"));
-		System.out.println(s2.endsWith("too"));
+		System.out.println(s1.endsWith("ng"));//true
+		System.out.println(s2.endsWith("too"));//false
 
 	}
 

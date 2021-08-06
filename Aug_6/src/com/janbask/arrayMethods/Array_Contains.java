@@ -10,8 +10,8 @@ public class Array_Contains {
 		
 String[] stud= {"marks","steve","jenny","kevin"};
 		
-	System.out.println(Arrays.asList(stud).contains("marks"));
-	System.out.println(Arrays.asList(stud).contains("henry"));
+	System.out.println(Arrays.asList(stud).contains("marks"));//true
+	System.out.println(Arrays.asList(stud).contains("henry"));//false
 	
 	
 	}
