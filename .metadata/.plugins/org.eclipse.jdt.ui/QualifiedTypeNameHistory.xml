@@ -9,4 +9,5 @@
     <fullyQualifiedTypeName name="com.janbask.static_examples.Variables_Static_Examples"/>
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.janbask.A.Protected_Example"/>
 </qualifiedTypeNameHistroy>
