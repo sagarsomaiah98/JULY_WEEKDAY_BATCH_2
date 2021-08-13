@@ -8,6 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
 
+
+
 public class TestPageElements {
 
 	public static void main(String[] args) throws InterruptedException {
@@ -39,8 +41,10 @@ public class TestPageElements {
 	al.accept();
 	//al.dismiss();
 		
+	WebElement sel=driver.findElement(By.xpath(""));
+		Select sele = new Select(sel);
 		
-
+  
 	}
 
 }
