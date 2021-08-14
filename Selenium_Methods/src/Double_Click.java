@@ -18,7 +18,7 @@ public class Double_Click {
 		
 	
 		
-		driver.get("https://www.browserstack.com/");
+		driver.get("https://demoqa.com/buttons");
 		driver.manage().window().maximize();
 
 		Actions a = new Actions(driver);
@@ -26,7 +26,7 @@ public class Double_Click {
 
 		
 
-		WebElement trialaction = driver.findElement(By.xpath("//a[@id='free-trial-link-anchor']"));
+		WebElement trialaction = driver.findElement(By.xpath("//button[@id='doubleClickBtn']"));
 		
 		Thread.sleep(3000);
 

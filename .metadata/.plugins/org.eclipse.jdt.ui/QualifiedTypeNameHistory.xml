@@ -25,4 +25,5 @@
     <fullyQualifiedTypeName name="com.sauce.testCase.LogOut_Test"/>
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
     <fullyQualifiedTypeName name="com.sauce.testCase.AddToCart_Test"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
 </qualifiedTypeNameHistroy>

@@ -18,7 +18,7 @@ public class WebDriver_Methods {
 		driver.getPageSource();
 		driver.getCurrentUrl();
 		driver.getTitle();
-		driver.navigate().toString();
+		driver.navigate().to("");
 		
 		 WebElement element=driver.findElement(By.xpath("//input[@id='txtUsername']"));
 		 
