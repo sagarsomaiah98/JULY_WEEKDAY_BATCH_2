@@ -1,0 +1,6 @@
+Feature: Login
+
+  Scenario: Login Functionality                                                                        [90m# login.feature:2[0m
+    [33mGiven [0m[33mlaunch the browser[0m
+    [33mAnd [0m[33mthere user logs in through Login Window by using Username as "USER" and Password as "PASSWORD"[0m
+    [33mThen [0m[33mlogin must be successful.[0m
