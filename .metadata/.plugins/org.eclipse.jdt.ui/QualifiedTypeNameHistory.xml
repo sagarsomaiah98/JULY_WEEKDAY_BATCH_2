@@ -9,7 +9,6 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="com.janbask.polymorphism.Method_Overloading"/>
     <fullyQualifiedTypeName name="com.janbask.A.Protected_Example"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.Alert"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.Select"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
@@ -35,12 +34,16 @@
     <fullyQualifiedTypeName name="org.testng.annotations.AfterClass"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.edge.EdgeDriver"/>
     <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="Pages.LoginPage"/>
     <fullyQualifiedTypeName name="Util.TestBase"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.en.And"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.en.Given"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.en.Then"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
 </qualifiedTypeNameHistroy>
